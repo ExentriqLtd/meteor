@@ -7,7 +7,7 @@ Package.describe({
 });
 
 Npm.depends({
-  "meteor-promise": "0.8.6",
+  "meteor-promise": "https://github.com/ExentriqLtd/promise#bbe4f0d20b70417950381aea112993c4cc8c1168",
   "promise": "8.0.1"
 });
 

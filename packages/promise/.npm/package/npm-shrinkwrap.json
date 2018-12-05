@@ -7,9 +7,7 @@
       "integrity": "sha1-5QNHYR1+aQlDIIu9r+vLwvuGbUY="
     },
     "meteor-promise": {
-      "version": "0.8.6",
-      "resolved": "https://registry.npmjs.org/meteor-promise/-/meteor-promise-0.8.6.tgz",
-      "integrity": "sha512-HP6tOr67z/9XU2Dr0F2SSr8WRTuE23AG9Dj578DCJPEYHs67OLKBviU8A8rwvbwMD7Lu2+Of+yAMz2Wd8r4yxg=="
+      "version": "git+https://github.com/ExentriqLtd/promise.git#bbe4f0d20b70417950381aea112993c4cc8c1168"
     },
     "promise": {
       "version": "8.0.1",
